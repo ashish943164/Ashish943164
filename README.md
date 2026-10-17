@@ -25,6 +25,11 @@
 
 ## 👨‍💻 About Me
 
+![About Me](https://capsule-render.vercel.app/api?type=rect&color=0:0891B2,100:312E81&height=80&text=ABOUT%20ME&fontSize=30&fontColor=FFFFFF&fontAlign=50&fontAlignY=55)
+
+
+
+
 Hi, I'm **Ashish Kumar**, a Computer Science Engineering student passionate about **Data Analytics, Artificial Intelligence, Computer Vision, and Software Development**.
 
 I enjoy transforming raw data into meaningful insights and building intelligent applications that solve real-world problems.
