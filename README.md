@@ -77,7 +77,7 @@ I enjoy transforming raw data into meaningful insights and building intelligent 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:059669,100:0891B2&height=90&text=FEATURED%20PROJECTS&fontSize=30&fontColor=FFFFFF&fontAlign=50&fontAlignY=55" width="100%" alt="Featured Projects"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:0891B2&height=90&text=FEATURED%20PROJECTS&fontSize=30&fontColor=FFFFFF&fontAlign=50&fontAlignY=55" width="100%" alt="Featured Projects"/>
 
 </div>
 
