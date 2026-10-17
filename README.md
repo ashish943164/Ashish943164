@@ -5,55 +5,6 @@
 
 <div align="center">
 
-
-
-
-<div align="center">
-
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 1000 180" role="img" aria-label="ASHISH KUMAR multicolor neon banner">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#09090F"/>
-      <stop offset="50%" stop-color="#1E1B4B"/>
-      <stop offset="100%" stop-color="#042F3A"/>
-    </linearGradient>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="4" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-  </defs>
-  <rect width="1000" height="180" rx="22" fill="url(#bg)"/>
-  <rect x="3" y="3" width="994" height="174" rx="20" fill="none" stroke="#06B6D4" stroke-opacity=".65" stroke-width="2"/>
-  <g font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="900" text-anchor="middle" filter="url(#glow)">
-    <text x="220" y="108" fill="#4285FF">A</text>
-    <text x="270" y="108" fill="#FF4D6D">S</text>
-    <text x="320" y="108" fill="#FFD166">H</text>
-    <text x="370" y="108" fill="#06D6A0">I</text>
-    <text x="420" y="108" fill="#B967FF">S</text>
-    <text x="470" y="108" fill="#FF6B6B">H</text>
-    <text x="545" y="108" fill="#00E5FF">K</text>
-    <text x="595" y="108" fill="#FFD166">U</text>
-    <text x="645" y="108" fill="#06D6A0">M</text>
-    <text x="695" y="108" fill="#B967FF">A</text>
-    <text x="745" y="108" fill="#4285FF">R</text>
-  </g>
-  <path d="M330 135 H670" stroke="#06B6D4" stroke-width="2" stroke-linecap="round" opacity=".8"/>
-</svg>
-
-</div>
-
-
-
-
-
-
-
-
-
-
 <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:09090F,50:312E81,100:06B6D4&text=ASHISH%20KUMAR&fontColor=FFFFFF&fontSize=55&fontAlignY=45&desc=AI%20%7C%20DATA%20ANALYTICS%20%7C%20SOFTWARE%20DEVELOPMENT&descAlignY=65&descSize=15&animation=fadeIn" width="100%" alt="Ashish Kumar banner"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=06B6D4&center=true&vCenter=true&width=800&lines=Computer+Science+Engineering+Student;Aspiring+Data+Analyst;AI+%26+Computer+Vision+Enthusiast;Building+Projects+That+Solve+Real+Problems" alt="Animated introduction"/>
@@ -361,3 +312,298 @@ Computer Science Engineering · India
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:312E81&height=120&section=footer" width="100%" alt="Neon footer"/>
 
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ================================================== -->
+<!--             ASHISH KUMAR | PROFILE README           -->
+<!-- ================================================== -->
+
+<div align="center">
+
+<!-- MULTICOLOR NAME BANNER -->
+<img src="./assets/ashish-banner.svg" width="100%" alt="ASHISH KUMAR Multicolor Neon Banner"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=850&lines=Computer+Science+Engineering+Student;Aspiring+Data+Analyst;AI+%26+Computer+Vision+Enthusiast;Building+Projects+That+Solve+Real+Problems" alt="Animated introduction"/>
+
+<br/>
+
+<a href="https://github.com/ashish943164">
+<img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://ashish943164.github.io/Portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="mailto:ashishkumarmjl011@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=ashish943164&label=PROFILE+VIEWS&color=0891b2&style=for-the-badge" alt="Profile views"/>
+
+</div>
+
+---
+
+<!-- ABOUT ME -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:0891B2&height=70&section=header&text=ABOUT%20ME&fontSize=28&fontColor=FFFFFF&animation=fadeIn" width="100%" alt="About Me"/>
+
+</div>
+
+Hello! I'm **Ashish Kumar**, a Computer Science Engineering student passionate about **Data Analytics, Artificial Intelligence, Computer Vision, and Software Development**.
+
+- 🎓 Pursuing B.Tech in Computer Science Engineering at Jagannath University, Jaipur.
+- 📊 Interested in transforming raw data into meaningful business insights.
+- 🤖 Exploring AI-powered applications and computer vision systems.
+- 💻 Building projects using Python, SQL, Power BI, web technologies, and machine learning tools.
+- 🔬 Interested in research, analytical problem-solving, and practical applications of AI.
+- 🚀 Focused on continuously improving my technical and professional skills.
+
+---
+
+<!-- TECHNICAL SKILLS -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:EC4899,100:7C3AED&height=70&text=TECHNICAL%20ARSENAL&fontSize=27&fontColor=FFFFFF" width="100%" alt="Technical Arsenal"/>
+
+</div>
+
+### 📊 Data Analytics & Visualization
+
+<p align="center">
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+</p>
+
+### 💻 Programming & Web Development
+
+<p align="center">
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+</p>
+
+### 🗄️ Databases & Tools
+
+<p align="center">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" alt="Google Colab"/>
+<img src="https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+<img src="https://img.shields.io/badge/YOLOv8-111827?style=for-the-badge&logoColor=white" alt="YOLOv8"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+</p>
+
+---
+
+<!-- FEATURED PROJECTS -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,100:2563EB&height=70&text=FEATURED%20PROJECTS&fontSize=27&fontColor=FFFFFF" width="100%" alt="Featured Projects"/>
+
+</div>
+
+### 01. ObjectIQ — AI-Powered Smart Surveillance
+
+**Technologies:** Python, YOLOv8, Flask, OpenCV, MongoDB Atlas, IoT
+
+- Real-time object detection and crowd-counting capabilities.
+- Designed for suspicious-activity and weapon-detection use cases.
+- Email alert workflows and role-based dashboard functionality.
+- Focused on AI-assisted surveillance and monitoring.
+
+[Explore my GitHub repositories](https://github.com/ashish943164?tab=repositories)
+
+### 02. Crowd Counting & Tracking System
+
+**Technologies:** Python, YOLOv8n, Deep SORT, Flask, OpenCV
+
+- Crowd counting and multi-object tracking.
+- Multi-zone analytics and heatmap-oriented monitoring.
+- Role-based access and reporting features.
+- Developed in connection with Infosys Springboard Internship 6.0.
+
+[Explore my GitHub repositories](https://github.com/ashish943164?tab=repositories)
+
+### 03. Doctor Visit Data Analysis
+
+**Technologies:** Python, Data Analysis, Visualization
+
+- Explore patterns in doctor visits and healthcare-related data.
+- Practice data cleaning, exploratory analysis, and insight generation.
+
+[View GitHub Profile](https://github.com/ashish943164?tab=repositories)
+
+### 04. Superstore Data Analysis
+
+**Technologies:** Python, Data Analytics, Visualization
+
+- Analyze sales, profit, and business performance patterns.
+- Explore trends and potential opportunities for data-driven decisions.
+
+[View GitHub Profile](https://github.com/ashish943164?tab=repositories)
+
+### 05. Employee Burnout Analysis
+
+**Technologies:** Python, Pandas, Data Analysis
+
+- Explore employee burnout-related data and patterns.
+- Practice exploratory analysis and communicate analytical findings.
+
+[View GitHub Profile](https://github.com/ashish943164?tab=repositories)
+
+### 06. Personal Portfolio Website
+
+**Technologies:** HTML, CSS, JavaScript
+
+- Personal website to present projects, skills, and professional information.
+
+[🌐 Visit Portfolio](https://ashish943164.github.io/Portfolio/) · [💻 Source Code](https://github.com/ashish943164/Portfolio)
+
+---
+
+<!-- RESEARCH AND PUBLICATIONS -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F59E0B,100:DC2626&height=70&text=RESEARCH%20%26%20PUBLICATIONS&fontSize=25&fontColor=FFFFFF" width="100%" alt="Research and Publications"/>
+
+</div>
+
+### 📄 01. AI-Driven Data Visualization for Big Data Analytics and Decision Support
+
+- **Event:** ICESSM-2026
+- **Date:** May 2026
+- **Focus:** Data visualization, big data analytics, and decision support.
+
+### 📄 02. Object Detection and Tracking for Smart Surveillance with Automated Email Alerts
+
+- **Publication details:** IJSREM, Volume 10, Issue 6, June 2026
+- **Focus:** Object detection, tracking, smart surveillance, and automated alerts.
+
+*For formal academic use, add the official paper URLs, DOI, or publication pages when available.*
+
+---
+
+<!-- CERTIFICATIONS -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:10B981,100:0D9488&height=70&text=CERTIFICATIONS%20%26%20LEARNING&fontSize=25&fontColor=FFFFFF" width="100%" alt="Certifications and Learning"/>
+
+</div>
+
+- Python Essentials — Cisco
+- Networking Essentials — Cisco
+- Web Development — Edunet
+- AI with Data Analysis — Edunet
+- University Emergent Technology Program — AICTE and Edunet
+- Data Analysis using AI-LLMs — Connecting Dreams Foundation
+- Deloitte Data Analytics Job Simulation
+- Deloitte Technology Job Simulation
+- Python — GeeksforGeeks
+- Excel — Analytics Vidhya
+- Indian Knowledge System — NPTEL
+- Core Java — Learn Vern
+- Computer Hardware — Learn Vern
+- Computer Networking / N-IT training
+- Spoken English — Learn Vern
+- Graphic Designing — Canva
+- Kushal Yuva Program — BSDM
+
+---
+
+<!-- GITHUB ANALYTICS -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:9333EA&height=70&text=GITHUB%20ANALYTICS&fontSize=27&fontColor=FFFFFF" width="100%" alt="GitHub Analytics"/>
+
+<br/><br/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ashish943164&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+
+<br/><br/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish943164&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=ashish943164&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+<!-- GITHUB TROPHIES -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F97316,100:DB2777&height=70&text=GITHUB%20TROPHIES&fontSize=27&fontColor=FFFFFF" width="100%" alt="GitHub Trophies"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=ashish943164&theme=tokyonight&column=4" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+<!-- CONNECT -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0891B2,100:7C3AED&height=70&text=LET'S%20CONNECT&fontSize=27&fontColor=FFFFFF" width="100%" alt="Let's Connect"/>
+
+<br/><br/>
+
+<a href="https://github.com/ashish943164">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="https://ashish943164.github.io/Portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-Explore-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
+
+<a href="mailto:ashishkumarmjl011@gmail.com">
+<img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/><br/>
+
+**“Turning data into insights, and ideas into intelligent solutions.”**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:7C3AED,100:EC4899&height=120&section=footer" width="100%" alt="Footer"/>
+
+</div>
+
