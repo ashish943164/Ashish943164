@@ -267,17 +267,6 @@ Research work listed in **IJSREM, Volume 10, Issue 6, June 2026**.
 
 <img src="https://streak-stats.demolab.com?user=ashish943164&theme=tokyonight&hide_border=true&background=09090F&ring=06B6D4&fire=7C3AED&currStreakLabel=06B6D4" alt="GitHub streak statistics"/>
 
-<br/><br/>
-
-
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ashish943164&theme=tokyonight&column=4)
-
-
-
-<img src="https://github-profile-trophy.vercel.app/?username=ashish943164&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub trophies"/>
-
 </div>
 
 ---
