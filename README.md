@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:09090F,50:312E81,100:06B6D4&text=ASHISH%20KUMAR&fontColor=FFFFFF&fontSize=55&fontAlignY=45&desc=AI%20%7C%20DATA%20ANALYTICS%20%7C%20SOFTWARE%20DEVELOPMENT&descAlignY=65&descSize=15&animation=fadeIn" width="100%" alt="Ashish Kumar banner"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:09090F,50:312E81,100:06B6D4&text=ASHISH%20KUMAR&fontColor=FFFFFF&fontSize=55&fontAlignY=45&desc=AI%20%7C%20DATA%20ANALYTICS%20%7C%20COMPUTER%20VESION&descAlignY=65&descSize=15&animation=fadeIn" width="100%" alt="Ashish Kumar banner"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=06B6D4&center=true&vCenter=true&width=800&lines=Computer+Science+Engineering+Student;Aspiring+Data+Analyst;AI+%26+Computer+Vision+Enthusiast;Building+Projects+That+Solve+Real+Problems" alt="Animated introduction"/>
 
@@ -77,7 +77,7 @@ I enjoy transforming raw data into meaningful insights and building intelligent 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:0891B2&height=90&text=FEATURED%20PROJECTS&fontSize=30&fontColor=FFFFFF&fontAlign=50&fontAlignY=55" width="100%" alt="Featured Projects"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,color=0:7C3AED,100:0891B2&height=90&text=FEATURED%20PROJECTS&fontSize=30&fontColor=FFFFFF&fontAlign=50&fontAlignY=55" width="100%" alt="Featured Projects"/>
 
 </div>
 
