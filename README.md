@@ -5,14 +5,14 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:09090F,50:312E81,100:06B6D4&text=ASHISH%20KUMAR&fontColor=FFFFFF&fontSize=55&fontAlignY=45&desc=AI%20%7C%20DATA%20ANALYTICS%20%7C%20COMPUTER%20VESION&descAlignY=65&descSize=15&animation=fadeIn" width="100%" alt="Ashish Kumar banner"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=06B6D4&center=true&vCenter=true&width=800&lines=Computer+Science+Engineering+Student;Aspiring+Data+Analyst;AI+%26+Computer+Vision+Enthusiast;Building+Projects+That+Solve+Real+Problems" alt="Animated introduction"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:09090F,50:312E81,100:06B6D4&text=ASHISH%20KUMAR&fontColor=FFFFFF&fontSize=55&fontAlignY=45&desc=AI%20%7C%20DATA%20ANALYTICS%20%7C%20COMPUTER%20VESION&descAlignY=65&descSize=15&animation=fadeIn" width="100%" alt="Ashish Kumar banner"/>
+  
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=06B6D4&center=true&vCenter=true&width=800&lines=Computer+Science+Engineering+Student;Aspiring+Data+Analyst;AI+%26+Computer+Vision+Enthusiast;Building+Projects+That+Solve+Real+Problems" alt="Animated introduction"/>
 
 <p>
-<a href="https://github.com/ashish943164"><img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://ashish943164.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-<a href="mailto:ashishkumarmjl011@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="https://github.com/ashish943164"><img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+    <a href="https://ashish943164.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+    <a href="mailto:ashishkumarmjl011@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 </div>
@@ -22,9 +22,7 @@
 <!-- ===================== ABOUT ME ===================== -->
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0891B2,100:312E81&height=90&text=ABOUT%20ME&fontSize=32&fontColor=FFFFFF&fontAlign=50&fontAlignY=55" width="100%" alt="About Me"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0891B2,100:312E81&height=90&text=ABOUT%20ME&fontSize=32&fontColor=FFFFFF&fontAlign=50&fontAlignY=55" width="100%" alt="About Me"/>
 </div>
 
 Hi, I'm **Ashish Kumar**, a Computer Science Engineering student passionate about **Data Analytics, Artificial Intelligence, Computer Vision, and Software Development**.
@@ -43,31 +41,30 @@ I enjoy transforming raw data into meaningful insights and building intelligent 
 <!-- ================= TECHNICAL ARSENAL ================= -->
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:0891B2&height=90&text=TECHNICAL%20ARSENAL&fontSize=30&fontColor=FFFFFF&fontAlign=50&fontAlignY=55" width="100%" alt="Technical Arsenal"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:0891B2&height=90&text=TECHNICAL%20ARSENAL&fontSize=30&fontColor=FFFFFF&fontAlign=50&fontAlignY=55" width="100%" alt="Technical Arsenal"/>
 
 ### 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js&theme=dark" alt="Programming languages"/>
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js&theme=dark" alt="Programming languages"/>
 
 ### 📊 Data Analytics & Databases
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" alt="Databases"/>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" alt="Databases"/>
 
 <p>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111111" alt="Power BI"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111111" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab"/>
 </p>
 
 ### 🌐 Web Development
 
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark" alt="Web development"/>
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark" alt="Web development"/>
 
 ### 🤖 AI, Computer Vision & Tools
 
-<img src="https://skillicons.dev/icons?i=opencv,flask,git,github,vscode,idea&theme=dark" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=opencv,flask,git,github,vscode,idea&theme=dark" alt="Tools"/>
 
 </div>
 
@@ -203,23 +200,15 @@ A personal website showcasing projects, technical skills, and professional infor
 </table>
 
 <div align="center">
-
-<a href="https://github.com/ashish943164?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW%20ALL%20PROJECTS-Explore%20GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="All repositories"/>
-</a>
-
+  <a href="https://github.com/ashish943164?tab=repositories">
+  <img src="https://img.shields.io/badge/VIEW%20ALL%20PROJECTS-Explore%20GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="All repositories"/>
+  </a>
 </div>
 
 ---
 
 <!-- ============== RESEARCH & PUBLICATIONS ============== -->
-
-
-
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:0891B2&height=90&text=RESEARCH%20AND%20PUBLICATIONS&fontSize=32&fontColor=FFFFFF&fontAlign=50&fontAlignY=55" width="100%" alt="Research and Publications"/>
-
-
 
 ## 🔬 Research & Publications
 
@@ -232,11 +221,8 @@ Research work listed in **IJSREM, Volume 10, Issue 6, June 2026**.
 ---
 
 <!-- =================== CERTIFICATIONS =================== -->
-
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:06B6D4&height=90&text=CERTIFICATIONS&fontSize=32&fontColor=FFFFFF&fontAlign=50&fontAlignY=55" width="100%" alt="Certifications"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:06B6D4&height=90&text=CERTIFICATIONS&fontSize=32&fontColor=FFFFFF&fontAlign=50&fontAlignY=55" width="100%" alt="Certifications"/>
 </div>
 
 - 🐍 Python Essentials — Cisco
@@ -299,7 +285,7 @@ Research work listed in **IJSREM, Volume 10, Issue 6, June 2026**.
 
 <br/><br/>
 
-**Ashish Kumar**  
+**@Ashish Kumar**  
 Computer Science Engineering · India
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:312E81&height=120&section=footer" width="100%" alt="Neon footer"/>
