@@ -216,11 +216,9 @@ A personal website showcasing projects, technical skills, and professional infor
 
 
 
-<div align="center">
 
-![Research and Publications](https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:0891B2&height=90&text=RESEARCH%20AND%20PUBLICATIONS&fontSize=25&fontColor=FFFFFF&fontAlign=50&fontAlignY=55)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:0891B2&height=90&text=RESEARCH%20AND%20PUBLICATIONS&fontSize=32&fontColor=FFFFFF&fontAlign=50&fontAlignY=55" width="100%" alt="Research and Publications"/>
 
-</div>
 
 
 ## 🔬 Research & Publications
