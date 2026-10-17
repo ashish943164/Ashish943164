@@ -269,6 +269,13 @@ Research work listed in **IJSREM, Volume 10, Issue 6, June 2026**.
 
 <br/><br/>
 
+
+## 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ashish943164&theme=tokyonight&column=4)
+
+
+
 <img src="https://github-profile-trophy.vercel.app/?username=ashish943164&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub trophies"/>
 
 </div>
