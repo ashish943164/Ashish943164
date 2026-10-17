@@ -6,13 +6,52 @@
 <div align="center">
 
 
+
+
 <div align="center">
-  <img
-    src="./assets/ashish-banner.png"
-    width="100%"
-    alt="ASHISH KUMAR - Multicolor Neon Banner"
-  />
+
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 1000 180" role="img" aria-label="ASHISH KUMAR multicolor neon banner">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#09090F"/>
+      <stop offset="50%" stop-color="#1E1B4B"/>
+      <stop offset="100%" stop-color="#042F3A"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="1000" height="180" rx="22" fill="url(#bg)"/>
+  <rect x="3" y="3" width="994" height="174" rx="20" fill="none" stroke="#06B6D4" stroke-opacity=".65" stroke-width="2"/>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="900" text-anchor="middle" filter="url(#glow)">
+    <text x="220" y="108" fill="#4285FF">A</text>
+    <text x="270" y="108" fill="#FF4D6D">S</text>
+    <text x="320" y="108" fill="#FFD166">H</text>
+    <text x="370" y="108" fill="#06D6A0">I</text>
+    <text x="420" y="108" fill="#B967FF">S</text>
+    <text x="470" y="108" fill="#FF6B6B">H</text>
+    <text x="545" y="108" fill="#00E5FF">K</text>
+    <text x="595" y="108" fill="#FFD166">U</text>
+    <text x="645" y="108" fill="#06D6A0">M</text>
+    <text x="695" y="108" fill="#B967FF">A</text>
+    <text x="745" y="108" fill="#4285FF">R</text>
+  </g>
+  <path d="M330 135 H670" stroke="#06B6D4" stroke-width="2" stroke-linecap="round" opacity=".8"/>
+</svg>
+
 </div>
+
+
+
+
+
+
+
+
 
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:09090F,50:312E81,100:06B6D4&text=ASHISH%20KUMAR&fontColor=FFFFFF&fontSize=55&fontAlignY=45&desc=AI%20%7C%20DATA%20ANALYTICS%20%7C%20SOFTWARE%20DEVELOPMENT&descAlignY=65&descSize=15&animation=fadeIn" width="100%" alt="Ashish Kumar banner"/>
