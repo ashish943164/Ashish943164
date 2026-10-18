@@ -1,9 +1,9 @@
 
-<div align="center">
+<!-- <div align="center">
 
 <img src="./assets/flying-bird.gif" width="100" alt="Flying bird animation" />
 
-</div>
+</div> -->
 
 <div align="center">
   <img src="./assets/flying-bird.gif" width="100" alt="Flying bird animation flying from left to right" />
