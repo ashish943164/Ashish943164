@@ -6,7 +6,7 @@
 <div align="center">
   <tr>
     <td align="left">
-      <img src="./assets/flying-bird.gif" width="50%" alt="Left flying bird">
+      <img src="./assets/flying-bird.gif" width="1000" alt="Left flying bird">
     </td>
     <td align="center">
       <img src="./assets/flying-bird.gif" width="220" alt="Center flying bird">
