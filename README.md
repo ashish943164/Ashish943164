@@ -9,14 +9,18 @@
   <img src="./assets/flying-bird.gif" width="100" alt="Flying bird animation flying from left to right" />
 </div> -->
 
-<div align="center">
+<!-- <div align="center">
   <img
     src="./assets/flying-bird.gif"
     width="150"
     alt="Blue bird flying from left to right"
   />
-</div>
+</div> -->
 
+
+<div align="center">
+  <img src="./assets/flying-bird.gif" width="150" alt="Flying bird">
+</div>
 
 <!-- ===================================================== -->
 <!--             ASHISH KUMAR | PROFILE README             -->
