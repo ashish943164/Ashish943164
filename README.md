@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="./assets/flying-bird.gif" width="220" alt="Flying bird animation" />
+<img src="./assets/flying-bird.gif" width="100%" alt="Flying bird animation" />
 
 </div>
 
