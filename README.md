@@ -1,4 +1,15 @@
 
+<div align="center">
+
+<img src="./flying-bird.gif" width="220" alt="Flying bird animation" />
+
+</div>
+
+
+
+
+
+
 <!-- ===================================================== -->
 <!--             ASHISH KUMAR | PROFILE README             -->
 <!-- ===================================================== -->
