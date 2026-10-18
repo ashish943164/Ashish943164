@@ -1,4 +1,4 @@
- <img src="./assets/flying-bird.gif" width="220px">
+
 <!-- ===================================================== -->
 <!--             ASHISH KUMAR | PROFILE README             -->
 <!-- ===================================================== -->
@@ -8,10 +8,10 @@
               <td align="left">
                 <img src="./assets/flying-bird.gif" width="220px">
               </td>
-              <td align="center">
+              <!-- <td align="center">
                 <img src="./assets/flying-bird.gif" width="220">
               </td>
-              <td align="right">
+              <td align="right"> -->
                 <img src="./assets/flying-bird.gif" width="220">
               </td>
             </tr>
