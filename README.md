@@ -3,25 +3,16 @@
        width="100%"
        alt="">
 </div>
+
+body {
+  background-image: url("./assets/stars-background.gif");
+}
 <!-- ===================================================== -->
 <!--             ASHISH KUMAR | PROFILE README             -->
 <!-- ===================================================== -->
 <div align="center">
-          <img src="./assets/flying-bird.gif" width="220px">
-          <!-- <div align="center">
-            <tr>
-              <td align="left">
-                <img src="./assets/flying-bird.gif" width="220px">
-              </td>
-              <td align="center">
-                <img src="./assets/flying-bird.gif" width="220">
-              </td>
-              <td align="right">
-                <img src="./assets/flying-bird.gif" width="220">
-              </td>
-            </tr>
-          </div> -->
-<img src="./assets/flying-bird.gif" width="220px">
+         <img src="./assets/flying-bird.gif" width="220px">
+        <img src="./assets/flying-bird.gif" width="220px">
 <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:09090F,50:312E81,100:06B6D4&text=ASHISH%20KUMAR&fontColor=FFFFFF&fontSize=55&fontAlignY=45&desc=AI%20%7C%20DATA%20ANALYTICS%20%7C%20COMPUTER%20VESION&descAlignY=65&descSize=15&animation=fadeIn" width="100%" alt="Ashish Kumar banner"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=06B6D4&center=true&vCenter=true&width=800&lines=Computer+Science+Engineering+Student;Aspiring+Data+Analyst;AI+%26+Computer+Vision+Enthusiast;Building+Projects+That+Solve+Real+Problems" alt="Animated introduction"/>
