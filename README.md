@@ -1,20 +1,3 @@
-<div align="center">
-  <img
-    src="assets/neon-bird-flight.gif"
-    width="320"
-    alt="Neon bird flying animation"
-  />
-</div>
-
-
-
-
-
-
-
-
-
-
 
 <!-- ===================================================== -->
 <!--             ASHISH KUMAR | PROFILE README             -->
