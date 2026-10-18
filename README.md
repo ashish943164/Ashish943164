@@ -212,7 +212,7 @@ A personal website showcasing projects, technical skills, and professional infor
 
 ## 🔬 Research & Publications
 
-### 01. AI-Driven Data Visualization for Big Data Analytics and Decision Support
+## 🔬 ### 01. AI-Driven Data Visualization for Big Data Analytics and Decision Support
 Research work listed for **ICESSM-2026, May 2026**.
 
 ### 02. Object Detection and Tracking for Smart Surveillance with Automated Email Alerts
