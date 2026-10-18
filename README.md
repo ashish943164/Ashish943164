@@ -294,3 +294,13 @@ Computer Science Engineering · India
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:312E81&height=120&section=footer" width="100%" alt="Neon footer"/>
 
 </div>
+
+
+
+
+
+<div align="center">
+  <img src="./assets/stars-background.gif"
+       width="100%"
+       alt="">
+</div>
