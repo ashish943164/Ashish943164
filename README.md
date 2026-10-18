@@ -191,9 +191,9 @@ A personal website showcasing projects, technical skills, and professional infor
 
 <br/><br/>
 
-<a href="https://ashish943164.github.io/Portfolio/">
+<!-- <a href="https://ashish943164.github.io/Portfolio/">
 <img src="https://img.shields.io/badge/Visit%20Live%20Website-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live portfolio"/>
-</a> 
+</a>  -->
 
 </td>
 </tr>
