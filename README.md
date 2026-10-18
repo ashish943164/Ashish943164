@@ -1,24 +1,16 @@
-
-<!-- <div align="center">
-
-<img src="./assets/flying-bird.gif" width="100" alt="Flying bird animation" />
-
-</div> -->
-
-<!-- <div align="center">
-  <img src="./assets/flying-bird.gif" width="100" alt="Flying bird animation flying from left to right" />
-</div> -->
-
-<!-- <div align="center">
-  <img
-    src="./assets/flying-bird.gif"
-    width="150"
-    alt="Blue bird flying from left to right"
-  />
-</div> -->
+<div align="left">
+  <img src="./assets/flying-bird.gif" width="150" alt="Flying bird">
+</div>
 
 
 <div align="center">
+  <img
+    src="./assets/flying-bird.gif" width="150"
+    alt="Blue bird flying from left to right"
+  />
+</div>
+
+<div align="right">
   <img src="./assets/flying-bird.gif" width="150" alt="Flying bird">
 </div>
 
