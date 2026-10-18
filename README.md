@@ -34,7 +34,7 @@
 <!-- ===================== ABOUT ME ===================== -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0891B2,100:312E81&height=90&text=ABOUT%20ME&fontSize=32&fontColor=FFFFFF&fontAlign=50&fontAlignY=55" width="100%" alt="About Me"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0891B2,100:312E81&height=90&text=ABOUT%20ME&fontSize=32&fontColor=FFFFFF&fontAlign=50&fontAlignY=55" width="60%" alt="About Me"/>
 </div>
 
 Hi, I'm **Ashish Kumar**, a Computer Science Engineering student passionate about **Data Analytics, Artificial Intelligence, Computer Vision, and Software Development**.
