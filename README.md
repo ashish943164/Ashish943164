@@ -198,10 +198,10 @@ A personal website showcasing projects, technical skills, and professional infor
 <!-- ============== RESEARCH & PUBLICATIONS ============== -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:0891B2&height=90&text=RESEARCH%20AND%20PUBLICATIONS&fontSize=32&fontColor=FFFFFF&fontAlign=50&fontAlignY=55" width="100%" alt="Research and Publications"/>
 
-### 📈 01. AI-Driven Data Visualization for Big Data Analytics and Decision Support
+### 📈 AI-Driven Data Visualization for Big Data Analytics and Decision Support
 Research work listed for **ICESSM-2026, May 2026**.
 
-### 🔬 02. Object Detection and Tracking for Smart Surveillance with Automated Email Alerts
+### 🔬 Object Detection and Tracking for Smart Surveillance with Automated Email Alerts
 Research work listed in **IJSREM, Volume 10, Issue 6, June 2026**.
 
 ---
