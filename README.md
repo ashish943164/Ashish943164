@@ -1,4 +1,4 @@
-<!-- <div align="left">
+<div align="left">
   <img src="./assets/flying-bird.gif" width="150" alt="Flying bird">
 </div>
 
@@ -12,7 +12,7 @@
 
 <div align="right">
   <img src="./assets/flying-bird.gif" width="150" alt="Flying bird">
-</div> -->
+</div>
 
 <table width="100%">
   <tr>
