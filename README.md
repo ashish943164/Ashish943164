@@ -1,4 +1,4 @@
-<div align="left">
+<!-- <div align="left">
   <img src="./assets/flying-bird.gif" width="150" alt="Flying bird">
 </div>
 
@@ -12,7 +12,21 @@
 
 <div align="right">
   <img src="./assets/flying-bird.gif" width="150" alt="Flying bird">
-</div>
+</div> -->
+
+<table width="100%">
+  <tr>
+    <td align="left">
+      <img src="./assets/flying-bird.gif" width="100" alt="Left flying bird">
+    </td>
+    <td align="center">
+      <img src="./assets/flying-bird.gif" width="100" alt="Center flying bird">
+    </td>
+    <td align="right">
+      <img src="./assets/flying-bird.gif" width="100" alt="Right flying bird">
+    </td>
+  </tr>
+</table>
 
 <!-- ===================================================== -->
 <!--             ASHISH KUMAR | PROFILE README             -->
