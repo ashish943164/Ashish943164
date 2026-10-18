@@ -199,11 +199,11 @@ A personal website showcasing projects, technical skills, and professional infor
 </tr>
 </table>
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/ashish943164?tab=repositories">
   <img src="https://img.shields.io/badge/VIEW%20ALL%20PROJECTS-Explore%20GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="All repositories"/>
   </a>
-</div>
+</div> -->
 
 ---
 
