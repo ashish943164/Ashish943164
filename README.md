@@ -34,7 +34,7 @@
 <!-- ===================== ABOUT ME ===================== -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0891B2,100:312E81&height=60&text=ABOUT%20ME&fontSize=32&fontColor=FFFFFF&fontAlign=50&fontAlignY=55" width="100%" alt="About Me"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0891B2,100:312E81&height=60&text=ABOUT%20ME&fontSize=30&fontColor=FFFFFF&fontAlign=50&fontAlignY=55" width="100%" alt="About Me"/>
 </div>
 
 Hi, I'm **Ashish Kumar**, a Computer Science Engineering student passionate about **Data Analytics, Artificial Intelligence, Computer Vision, and Software Development**.
@@ -53,7 +53,7 @@ I enjoy transforming raw data into meaningful insights and building intelligent 
 <!-- ================= TECHNICAL ARSENAL ================= -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:0891B2&height=90&text=TECHNICAL%20ARSENAL&fontSize=30&fontColor=FFFFFF&fontAlign=50&fontAlignY=55" width="100%" alt="Technical Arsenal"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:0891B2&height=60&text=TECHNICAL%20ARSENAL&fontSize=30&fontColor=FFFFFF&fontAlign=50&fontAlignY=55" width="100%" alt="Technical Arsenal"/>
 
 ### 💻 Programming Languages
 
@@ -86,7 +86,7 @@ I enjoy transforming raw data into meaningful insights and building intelligent 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,color=0:7C3AED,100:0891B2&height=90&text=FEATURED%20PROJECTS&fontSize=30&fontColor=FFFFFF&fontAlign=50&fontAlignY=55" width="100%" alt="Featured Projects"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,color=0:7C3AED,100:0891B2&height=60&text=FEATURED%20PROJECTS&fontSize=30&fontColor=FFFFFF&fontAlign=50&fontAlignY=55" width="100%" alt="Featured Projects"/>
 
 </div>
 
@@ -208,7 +208,7 @@ A personal website showcasing projects, technical skills, and professional infor
 ---
 
 <!-- ============== RESEARCH & PUBLICATIONS ============== -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:0891B2&height=90&text=RESEARCH%20AND%20PUBLICATIONS&fontSize=32&fontColor=FFFFFF&fontAlign=50&fontAlignY=55" width="100%" alt="Research and Publications"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:0891B2&height=60&text=RESEARCH%20AND%20PUBLICATIONS&fontSize=30&fontColor=FFFFFF&fontAlign=50&fontAlignY=55" width="100%" alt="Research and Publications"/>
 
 ### 📈 AI-Driven Data Visualization for Big Data Analytics and Decision Support
 Research work listed for **ICESSM-2026, May 2026**.
@@ -220,7 +220,7 @@ Research work listed in **IJSREM, Volume 10, Issue 6, June 2026**.
 
 <!-- =================== CERTIFICATIONS =================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:06B6D4&height=90&text=CERTIFICATIONS&fontSize=32&fontColor=FFFFFF&fontAlign=50&fontAlignY=55" width="100%" alt="Certifications"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:06B6D4&height=60&text=CERTIFICATIONS&fontSize=30&fontColor=FFFFFF&fontAlign=50&fontAlignY=55" width="100%" alt="Certifications"/>
 </div>
 
 - 🐍 Python Essentials — Cisco
@@ -243,7 +243,7 @@ Research work listed in **IJSREM, Volume 10, Issue 6, June 2026**.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0E7490,100:6D28D9&height=90&text=GITHUB%20ANALYTICS&fontSize=30&fontColor=FFFFFF&fontAlign=50&fontAlignY=55" width="100%" alt="GitHub Analytics"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0E7490,100:6D28D9&height=60&text=GITHUB%20ANALYTICS&fontSize=30&fontColor=FFFFFF&fontAlign=50&fontAlignY=55" width="100%" alt="GitHub Analytics"/>
 
 <br/><br/>
 
@@ -263,7 +263,7 @@ Research work listed in **IJSREM, Volume 10, Issue 6, June 2026**.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:312E81,100:0891B2&height=90&text=LET%27S%20CONNECT&fontSize=32&fontColor=FFFFFF&fontAlign=50&fontAlignY=55" width="100%" alt="Let's Connect"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:312E81,100:0891B2&height=60&text=LET%27S%20CONNECT&fontSize=30&fontColor=FFFFFF&fontAlign=50&fontAlignY=55" width="100%" alt="Let's Connect"/>
 
 <br/>
 
