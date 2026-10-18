@@ -1,4 +1,8 @@
-
+<div align="center">
+  <img src="./assets/stars-background.gif"
+       width="100%"
+       alt="">
+</div>
 <!-- ===================================================== -->
 <!--             ASHISH KUMAR | PROFILE README             -->
 <!-- ===================================================== -->
