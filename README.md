@@ -15,7 +15,7 @@
 </div>
 
 <table width="100%">
-  <tr>
+ 
     <td align="left">
       <img src="./assets/flying-bird.gif" width="220" alt="Left flying bird">
     </td>
@@ -25,7 +25,7 @@
     <td align="right">
       <img src="./assets/flying-bird.gif" width="220" alt="Right flying bird">
     </td>
-  </tr>
+  
 </table> -->
 
 <!-- ===================================================== -->
