@@ -2,7 +2,7 @@
 <!-- ===================================================== -->
 <!--             ASHISH KUMAR | PROFILE README             -->
 <!-- ===================================================== -->
-<div align="center">
+<!-- <div align="center"> -->
 <div align="center">
   <tr>
     <td align="left">
@@ -15,7 +15,7 @@
       <img src="./assets/flying-bird.gif" width="220" alt="Right flying bird">
     </td>
   </tr>
-</div>
+<!-- </div> -->
 
   <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:09090F,50:312E81,100:06B6D4&text=ASHISH%20KUMAR&fontColor=FFFFFF&fontSize=55&fontAlignY=45&desc=AI%20%7C%20DATA%20ANALYTICS%20%7C%20COMPUTER%20VESION&descAlignY=65&descSize=15&animation=fadeIn" width="100%" alt="Ashish Kumar banner"/>
   
