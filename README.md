@@ -1,24 +1,4 @@
 
-
-<picture>
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:1D4ED8,50:4338CA,100:0891B2&text=ASHISH%20KUMAR&fontColor=FFFFFF&fontSize=55&fontAlignY=45&desc=AI%20%7C%20DATA%20ANALYTICS%20%7C%20COMPUTER%20VISION&descColor=FFFFFF&descAlignY=65&descSize=15&animation=fadeIn">
-
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:09090F,50:312E81,100:06B6D4&text=ASHISH%20KUMAR&fontColor=FFFFFF&fontSize=55&fontAlignY=45&desc=AI%20%7C%20DATA%20ANALYTICS%20%7C%20COMPUTER%20VISION&descColor=FFFFFF&descAlignY=65&descSize=15&animation=fadeIn">
-
-  <img
-    src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:1D4ED8,50:4338CA,100:0891B2&text=ASHISH%20KUMAR&fontColor=FFFFFF&fontSize=55&fontAlignY=45&desc=AI%20%7C%20DATA%20ANALYTICS%20%7C%20COMPUTER%20VISION&descColor=FFFFFF&descAlignY=65&descSize=15&animation=fadeIn"
-    width="100%"
-    alt="Ashish Kumar - AI and Data Analytics">
-</picture>
-
-
-
-
-
 <!-- ===================================================== -->
 <!--             ASHISH KUMAR | PROFILE README             -->
 <!-- ===================================================== -->
